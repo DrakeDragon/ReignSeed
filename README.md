@@ -1,0 +1,2 @@
+# ReignSeed
+Mobile Kingdom Builder
